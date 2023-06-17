@@ -14,17 +14,15 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,    
-    name: "Andrei Neagoie & Zero To Mastery",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, sit."
+    name: "Andrei Neagoie & Zero To Mastery"
+    
   },
   {avatar: AVTR2,    
-    name: "W3 Schools",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, sit."
+    name: "W3 Schools"   
   },
   {
     avatar: AVTR3,    
-    name: "JavaScript.info",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, sit."
+    name: "JavaScript.info"    
   }
 ];
 
