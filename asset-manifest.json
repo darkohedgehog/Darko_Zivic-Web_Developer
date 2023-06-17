@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Darko_Zivic-Web_Developer/static/css/main.0f269229.css",
-    "main.js": "/Darko_Zivic-Web_Developer/static/js/main.280f9b74.js",
+    "main.js": "/Darko_Zivic-Web_Developer/static/js/main.5c5ee54c.js",
     "static/media/me.jpeg": "/Darko_Zivic-Web_Developer/static/media/me.510a7b936994683ec622.jpeg",
     "static/media/hachi.png": "/Darko_Zivic-Web_Developer/static/media/hachi.bb6b41a3f8481769ed13.png",
     "static/media/coffee.png": "/Darko_Zivic-Web_Developer/static/media/coffee.418b4034a437eea75a12.png",
@@ -11,10 +11,10 @@
     "static/media/jsinfo.png": "/Darko_Zivic-Web_Developer/static/media/jsinfo.85636ad62760eeb19218.png",
     "index.html": "/Darko_Zivic-Web_Developer/index.html",
     "main.0f269229.css.map": "/Darko_Zivic-Web_Developer/static/css/main.0f269229.css.map",
-    "main.280f9b74.js.map": "/Darko_Zivic-Web_Developer/static/js/main.280f9b74.js.map"
+    "main.5c5ee54c.js.map": "/Darko_Zivic-Web_Developer/static/js/main.5c5ee54c.js.map"
   },
   "entrypoints": [
     "static/css/main.0f269229.css",
-    "static/js/main.280f9b74.js"
+    "static/js/main.5c5ee54c.js"
   ]
 }
