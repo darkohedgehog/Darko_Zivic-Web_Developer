@@ -30,7 +30,7 @@ const About = () => {
             <article className='about_card'>
               <GoFileCode className='about_icon'/>
               <h5>Familiar With</h5>
-              <small>HTML5 CSS3 JS ReactJS </small>
+              <small>HTML5 CSS3 JS ReactJS NodeJS</small>
             </article>
 
             <article className='about_card'>

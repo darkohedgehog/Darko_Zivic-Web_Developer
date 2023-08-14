@@ -80,19 +80,23 @@
     }
 }
 /*  ============ MEDIA QUERIES (SMALL DEVICES) ============= */
-@media screen and (max-width: 600px) {
-     .about_me {
-        width: 65%;
+@media screen and (max-width: 400px) {
+    .about_me {
+        width: 100%; /* Promenjeno */
         margin: 0 auto 3rem;
-     } 
-     .about_card {
-        grid-template-columns: 1fr 1fr;
+    }
+    .about_cards {
+        grid-template-columns: 1fr; /* Promenjeno */
         gap: 1rem;
-     }
-     .about_content {
-        text-align: center;
-     }
-     .about_content p {
-        margin: 1.5rem 0;
-     }
+    }
+    .about_card {
+        padding: 1rem; /* Smanjeno */
+    }
+    .about_card h5 {
+        font-size: 0.85rem; /* Smanjeno */
+        margin-bottom: 0.3rem; /* Dodato */
+    }
+    .about_card small {
+        font-size: 0.6rem; /* Smanjeno */
+    }
 }
