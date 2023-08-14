@@ -43,7 +43,7 @@ const About = () => {
           <p>
           With over 15 years of experience as an executive manager in the field of commerce and a year of dedicated web development, I bring a unique blend of expertise to the table. My solid foundation as an executive manager has honed my leadership and strategic skills, enabling me to drive successful outcomes in the business world.</p>
           <p>
-          Additionally, my passion for web development has led me to master various programming languages including HTML5, CSS3, JavaScript, React, Node.js, Express.js, SQL and PostgresSQL. My proficiency in these languages allows me to craft dynamic and interactive websites, ensuring a seamless user experience. I am constantly seeking opportunities to further expand my knowledge and explore innovative solutions to deliver exceptional results
+          Additionally, my passion for web development has led me to master various programming languages including HTML5, CSS3, JavaScript, React, Node.js, Express.js, SQL and PostgresSQL. My proficiency in these languages allows me to craft dynamic and interactive websites, ensuring a seamless user experience. I am constantly seeking opportunities to further expand my knowledge and explore innovative solutions to deliver exceptional results.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let`s Talk</a>
